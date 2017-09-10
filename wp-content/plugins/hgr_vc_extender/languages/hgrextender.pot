@@ -1,0 +1,3386 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Highgrade Extender for Visual Composer\n"
+"POT-Creation-Date: 2016-03-28 15:15+0300\n"
+"PO-Revision-Date: 2016-03-28 15:15+0300\n"
+"Last-Translator: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"Language-Team: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hgr_xtnd.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elements/hgr_xtnd_accordion.php:29
+msgid "HGR Accordion"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:33 elements/hgr_xtnd_advanced_image.php:31
+#: elements/hgr_xtnd_blog_posts.php:30 elements/hgr_xtnd_button.php:31
+#: elements/hgr_xtnd_contentbox.php:36 elements/hgr_xtnd_countdown.php:33
+#: elements/hgr_xtnd_counter.php:39 elements/hgr_xtnd_fcard.php:43
+#: elements/hgr_xtnd_gmap.php:47 elements/hgr_xtnd_icon.php:38
+#: elements/hgr_xtnd_iconbox.php:37 elements/hgr_xtnd_icontext.php:37
+#: elements/hgr_xtnd_logo_carousel.php:42 elements/hgr_xtnd_mc_collector.php:32
+#: elements/hgr_xtnd_minimal_form.php:38
+#: elements/hgr_xtnd_morphingbutton.php:43 elements/hgr_xtnd_pie.php:32
+#: elements/hgr_xtnd_pricing_tables.php:42 elements/hgr_xtnd_progressbar.php:39
+#: elements/hgr_xtnd_rollover_panel.php:40 elements/hgr_xtnd_team.php:35
+#: elements/hgr_xtnd_twitterfeed.php:31 elements/hgr_xtnd_zoombox.php:36
+msgid "HighGrade Extender"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:35
+msgid "Accordion block"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:42
+msgid "Panels header background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:51
+msgid "Panels body background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:59
+msgid "Panels header text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:68
+msgid "Panels body text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:77
+msgid "Panel header height"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:80
+msgid "Panel header height in pixels"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:86
+msgid "Panel header roundness"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:89
+msgid "Panel header roundness in pixels. Example: 4"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:95 elements/hgr_xtnd_blog_posts.php:156
+#: elements/hgr_xtnd_button.php:297 elements/hgr_xtnd_contentbox.php:368
+#: elements/hgr_xtnd_fcard.php:695 elements/hgr_xtnd_gmap.php:156
+#: elements/hgr_xtnd_mc_collector.php:125
+#: elements/hgr_xtnd_morphingbutton.php:686 elements/hgr_xtnd_pie.php:180
+#: elements/hgr_xtnd_pricing_tables.php:73 elements/hgr_xtnd_team.php:82
+#: elements/hgr_xtnd_twitterfeed.php:122 elements/hgr_xtnd_zoombox.php:382
+msgid "Extra class"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:98 elements/hgr_xtnd_team.php:85
+msgid "Optional extra CSS class"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:104
+msgid "Unique ID for this accordion"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:107
+msgid ""
+"Unique ID for this accordion, useful for extra CSS or JS customnization. "
+"This is auto-generated or you can enter your own."
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:113
+msgid ""
+"This is a global setting page for the whole \"Accordion\" block. Add some "
+"\"Accordion elements (tabs)\" in the container row to make it complete."
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:127
+msgid "Accordion element"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:138 elements/hgr_xtnd_button.php:196
+msgid "Icon type"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:141 elements/hgr_xtnd_button.php:199
+#: elements/hgr_xtnd_contentbox.php:48 elements/hgr_xtnd_counter.php:49
+#: elements/hgr_xtnd_fcard.php:55 elements/hgr_xtnd_icon.php:47
+#: elements/hgr_xtnd_iconbox.php:46 elements/hgr_xtnd_icontext.php:46
+#: elements/hgr_xtnd_pie.php:125 elements/hgr_xtnd_progressbar.php:48
+#: elements/hgr_xtnd_rollover_panel.php:52 elements/hgr_xtnd_zoombox.php:45
+msgid "Font Icon Browser"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:142 elements/hgr_xtnd_button.php:200
+#: elements/hgr_xtnd_contentbox.php:49 elements/hgr_xtnd_counter.php:50
+#: elements/hgr_xtnd_icon.php:48 elements/hgr_xtnd_iconbox.php:47
+#: elements/hgr_xtnd_icontext.php:47 elements/hgr_xtnd_pie.php:126
+#: elements/hgr_xtnd_progressbar.php:49 elements/hgr_xtnd_rollover_panel.php:53
+#: elements/hgr_xtnd_zoombox.php:46
+msgid "Custom Image Icon"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:145 elements/hgr_xtnd_button.php:203
+#: elements/hgr_xtnd_contentbox.php:52 elements/hgr_xtnd_counter.php:46
+#: elements/hgr_xtnd_progressbar.php:52
+msgid "Use an existing font icon or upload a custom image."
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:150 elements/hgr_xtnd_button.php:212
+#: elements/hgr_xtnd_contentbox.php:57 elements/hgr_xtnd_counter.php:57
+msgid "Select Icon "
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:153 elements/hgr_xtnd_button.php:215
+#: elements/hgr_xtnd_contentbox.php:60 elements/hgr_xtnd_fcard.php:67
+#: elements/hgr_xtnd_icon.php:59 elements/hgr_xtnd_iconbox.php:59
+#: elements/hgr_xtnd_icontext.php:59 elements/hgr_xtnd_progressbar.php:60
+#: elements/hgr_xtnd_rollover_panel.php:64 elements/hgr_xtnd_zoombox.php:58
+msgid "Click on an icon to select it."
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:163 elements/hgr_xtnd_icon.php:68
+#: elements/hgr_xtnd_pie.php:159
+msgid "Icon color:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:164
+msgid "Icon color"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:177 elements/hgr_xtnd_button.php:284
+#: elements/hgr_xtnd_pie.php:171
+msgid "Icon size"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:180 elements/hgr_xtnd_pie.php:92
+#: elements/hgr_xtnd_pie.php:174
+msgid "Enter value in pixels, example: 30"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:190 elements/hgr_xtnd_button.php:225
+#: elements/hgr_xtnd_contentbox.php:70 elements/hgr_xtnd_counter.php:69
+#: elements/hgr_xtnd_icontext.php:83 elements/hgr_xtnd_pie.php:145
+#: elements/hgr_xtnd_progressbar.php:99
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:194 elements/hgr_xtnd_button.php:229
+#: elements/hgr_xtnd_contentbox.php:74 elements/hgr_xtnd_counter.php:73
+#: elements/hgr_xtnd_icon.php:111 elements/hgr_xtnd_iconbox.php:89
+#: elements/hgr_xtnd_icontext.php:87 elements/hgr_xtnd_pie.php:149
+#: elements/hgr_xtnd_progressbar.php:103
+#: elements/hgr_xtnd_rollover_panel.php:107 elements/hgr_xtnd_zoombox.php:101
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:204
+msgid "Panel Title"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:207
+msgid "Provide a unique title for this panel"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:213
+msgid "Panel content"
+msgstr ""
+
+#: elements/hgr_xtnd_accordion.php:216
+msgid "Content to be visible when proper tab is selected"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:25
+msgid "HGR Advanced Image"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:30
+msgid "Image with advanced parameters"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:37
+msgid "Image:"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:41
+msgid "Upload or select image to use"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:47
+msgid "Image overlay color:"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:50
+msgid "Select overlay color on mouseover image."
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:56
+msgid "Overlay text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:59
+msgid "Select overlay text color."
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:65
+msgid "General link on overlay"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:68
+msgid "Optional link on overlay"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:74
+msgid "Overlay content:"
+msgstr ""
+
+#: elements/hgr_xtnd_advanced_image.php:77
+msgid "Insert the content to be displayed on image hover."
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:25
+msgid "HGR Blog Posts"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:31
+msgid "Grid style blog posts."
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:37
+msgid "How many posts to fetch?"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:40
+msgid "Enter the desired number of posts to fetch from blog. Recomended: 6"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:46
+msgid "How many posts to display on a row?"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:49
+msgid "Enter the desired number of posts to display on each row."
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:55
+msgid "Display order"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:58
+msgid "Image > Title > Text"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:59
+msgid "Title > Text"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:62
+msgid "How to display posts"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:67
+msgid "Order posts by"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:70
+msgid "Publish date"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:71
+msgid "Title"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:78
+msgid "Order"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:81
+msgid "Ascending"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:82
+msgid "Descending"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:89
+msgid "Blog post title size"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:92
+msgid "H1"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:93
+msgid "H2"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:94
+msgid "H3"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:95
+msgid "H4"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:96
+msgid "H5"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:97
+msgid "H6"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:104
+msgid "Blog post footer type"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:107
+msgid "Icon based"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:108
+msgid "Compact"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:109 elements/hgr_xtnd_progressbar.php:204
+msgid "Simple"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:116
+msgid "Footer background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:128
+msgid "Footer border & separators color:"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:140
+msgid "Links color:"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:148
+msgid "Background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_blog_posts.php:159 elements/hgr_xtnd_mc_collector.php:128
+#: elements/hgr_xtnd_twitterfeed.php:125
+msgid "Extra CSS class for custom CSS"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:25
+msgid "HGR Button"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:30
+msgid "Very configurable button"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:37 elements/hgr_xtnd_morphingbutton.php:64
+msgid "Text on the button"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:39
+msgid "Buy now!"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:45
+msgid "Text size (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:53 elements/hgr_xtnd_pricing_tables.php:252
+msgid "Button action URL"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:56
+msgid "Set button link here."
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:62 elements/hgr_xtnd_morphingbutton.php:80
+msgid "Button text color"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:70 elements/hgr_xtnd_morphingbutton.php:88
+msgid "Button text color on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:78 elements/hgr_xtnd_morphingbutton.php:96
+msgid "Button color"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:86 elements/hgr_xtnd_morphingbutton.php:104
+msgid "Button color on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:94
+msgid "Button width"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:95 elements/hgr_xtnd_button.php:116
+#: elements/hgr_xtnd_button.php:162 elements/hgr_xtnd_morphingbutton.php:113
+#: elements/hgr_xtnd_morphingbutton.php:122
+msgid "Insert only numeric values"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:103
+msgid "Button width units"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:106 elements/hgr_xtnd_button.php:127
+msgid "Pixels"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:107 elements/hgr_xtnd_button.php:128
+msgid "Percent"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:108 elements/hgr_xtnd_button.php:129
+msgid "Ems"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:115
+msgid "Button height"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:124
+msgid "Button height units"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:136 elements/hgr_xtnd_morphingbutton.php:130
+msgid "Button border weight"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:137 elements/hgr_xtnd_morphingbutton.php:131
+msgid "Insert only numeric values. Pixels will be used."
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:145 elements/hgr_xtnd_morphingbutton.php:139
+msgid "Button border color"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:153 elements/hgr_xtnd_morphingbutton.php:147
+msgid "Button border color on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:161 elements/hgr_xtnd_morphingbutton.php:155
+#: elements/hgr_xtnd_pricing_tables.php:301
+msgid "Button roundness"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:170
+msgid "Icon"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:173 elements/hgr_xtnd_fcard.php:190
+#: elements/hgr_xtnd_iconbox.php:48
+msgid "No icon"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:174
+msgid "Use icon"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:181
+msgid "Icon position"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:184 elements/hgr_xtnd_icontext.php:215
+msgid "Left"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:185 elements/hgr_xtnd_icontext.php:216
+msgid "Right"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:239
+msgid "Icon animation"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:242
+msgid "No animation"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:243
+msgid "Spin"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:244
+msgid "Rotate 90"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:245
+msgid "Rotate 180"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:246
+msgid "Rotate 270"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:247
+msgid "Flip horizontal"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:248
+msgid "Flip vertical"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:251
+msgid "Does not apply to all icons!"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:260
+msgid "Animate icon on"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:263
+msgid "Always"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:264
+msgid "On hover"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:267
+msgid "Does not apply to all icons/animations!"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:287
+msgid "Enter value in pixels, example: 24"
+msgstr ""
+
+#: elements/hgr_xtnd_button.php:300 elements/hgr_xtnd_pie.php:183
+msgid ""
+"Enter a extra css class for this element, if you wish to override default "
+"css settings"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:32
+msgid "HGR ContentBox"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:37
+msgid "ContentBox with advanced settings"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:45 elements/hgr_xtnd_icon.php:44
+#: elements/hgr_xtnd_iconbox.php:43 elements/hgr_xtnd_icontext.php:43
+#: elements/hgr_xtnd_zoombox.php:42
+msgid "Display icon:"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:84 elements/hgr_xtnd_counter.php:83
+#: elements/hgr_xtnd_icontext.php:96
+msgid "Image Width"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:90 elements/hgr_xtnd_iconbox.php:105
+#: elements/hgr_xtnd_icontext.php:102
+msgid "Provide image width"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:100
+msgid "Size of Icon"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:106 elements/hgr_xtnd_counter.php:105
+#: elements/hgr_xtnd_icon.php:98 elements/hgr_xtnd_icontext.php:74
+#: elements/hgr_xtnd_zoombox.php:74
+msgid "Set the icon size."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:116
+msgid "Icon Color on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:119
+msgid "Select prefered color on normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:129
+msgid "Icon Color on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:132
+msgid "Select prefered color on hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:145
+msgid "Title text"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:148 elements/hgr_xtnd_iconbox.php:118
+#: elements/hgr_xtnd_icontext.php:231 elements/hgr_xtnd_morphingbutton.php:186
+#: elements/hgr_xtnd_morphingbutton.php:321
+msgid "Insert title text here."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:154
+msgid "Title color on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:157
+msgid "Color of title text in normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:163
+msgid "Title color on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:166
+msgid "Color of title text in hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:172
+msgid "Description text"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:175
+msgid "Insert description here."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:181
+msgid "Description color on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:184
+msgid "Color of description text in normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:190
+msgid "Description color on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:193
+msgid "Color of description text in hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:199
+msgid "Background type on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:202 elements/hgr_xtnd_contentbox.php:228
+#: elements/hgr_xtnd_contentbox.php:268 elements/hgr_xtnd_contentbox.php:294
+#: elements/hgr_xtnd_fcard.php:347 elements/hgr_xtnd_fcard.php:482
+#: elements/hgr_xtnd_iconbox.php:146 elements/hgr_xtnd_iconbox.php:171
+#: elements/hgr_xtnd_iconbox.php:221 elements/hgr_xtnd_iconbox.php:246
+#: elements/hgr_xtnd_rollover_panel.php:173
+#: elements/hgr_xtnd_rollover_panel.php:314 elements/hgr_xtnd_zoombox.php:283
+msgid "Select color"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:203 elements/hgr_xtnd_contentbox.php:227
+#: elements/hgr_xtnd_contentbox.php:269 elements/hgr_xtnd_contentbox.php:293
+#: elements/hgr_xtnd_fcard.php:56 elements/hgr_xtnd_fcard.php:129
+#: elements/hgr_xtnd_fcard.php:234 elements/hgr_xtnd_fcard.php:346
+#: elements/hgr_xtnd_fcard.php:373 elements/hgr_xtnd_fcard.php:481
+#: elements/hgr_xtnd_fcard.php:508 elements/hgr_xtnd_icon.php:138
+#: elements/hgr_xtnd_icon.php:204 elements/hgr_xtnd_iconbox.php:145
+#: elements/hgr_xtnd_iconbox.php:170 elements/hgr_xtnd_iconbox.php:220
+#: elements/hgr_xtnd_iconbox.php:245 elements/hgr_xtnd_icontext.php:126
+#: elements/hgr_xtnd_rollover_panel.php:172
+#: elements/hgr_xtnd_rollover_panel.php:200
+#: elements/hgr_xtnd_rollover_panel.php:313
+#: elements/hgr_xtnd_rollover_panel.php:341 elements/hgr_xtnd_zoombox.php:47
+#: elements/hgr_xtnd_zoombox.php:167 elements/hgr_xtnd_zoombox.php:206
+#: elements/hgr_xtnd_zoombox.php:284 elements/hgr_xtnd_zoombox.php:308
+msgid "None"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:206 elements/hgr_xtnd_iconbox.php:149
+msgid "Select background type in normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:211
+msgid "Background color on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:214 elements/hgr_xtnd_iconbox.php:157
+msgid "Pick a background color for normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:224
+msgid "Border type on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:231 elements/hgr_xtnd_iconbox.php:174
+msgid "Select border type in normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:236
+msgid "Border width on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:242 elements/hgr_xtnd_contentbox.php:308
+#: elements/hgr_xtnd_counter.php:251 elements/hgr_xtnd_fcard.php:160
+#: elements/hgr_xtnd_fcard.php:265 elements/hgr_xtnd_fcard.php:388
+#: elements/hgr_xtnd_fcard.php:523 elements/hgr_xtnd_icon.php:177
+#: elements/hgr_xtnd_icon.php:247 elements/hgr_xtnd_iconbox.php:185
+#: elements/hgr_xtnd_iconbox.php:260 elements/hgr_xtnd_icontext.php:157
+#: elements/hgr_xtnd_icontext.php:188 elements/hgr_xtnd_rollover_panel.php:151
+#: elements/hgr_xtnd_rollover_panel.php:215
+#: elements/hgr_xtnd_rollover_panel.php:259
+#: elements/hgr_xtnd_rollover_panel.php:292
+#: elements/hgr_xtnd_rollover_panel.php:356
+#: elements/hgr_xtnd_rollover_panel.php:429 elements/hgr_xtnd_zoombox.php:221
+#: elements/hgr_xtnd_zoombox.php:323
+msgid "Enter value in pixels."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:252
+msgid "Border color on normal state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:255 elements/hgr_xtnd_iconbox.php:198
+msgid "Pick a border color for normal state box."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:265 elements/hgr_xtnd_iconbox.php:217
+msgid "Background type on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:272 elements/hgr_xtnd_iconbox.php:224
+msgid "Select background type in hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:277
+msgid "Background color on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:280 elements/hgr_xtnd_iconbox.php:232
+msgid "Pick a background color for hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:290
+msgid "Border type on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:297 elements/hgr_xtnd_iconbox.php:249
+msgid "Select border type in hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:302
+msgid "Border width on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:318
+msgid "Border color on hover state"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:321 elements/hgr_xtnd_iconbox.php:273
+msgid "Pick a border color for hover state box."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:331 elements/hgr_xtnd_counter.php:274
+#: elements/hgr_xtnd_zoombox.php:345
+msgid "Box Border Roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:337 elements/hgr_xtnd_counter.php:280
+#: elements/hgr_xtnd_fcard.php:175 elements/hgr_xtnd_fcard.php:280
+#: elements/hgr_xtnd_fcard.php:415 elements/hgr_xtnd_fcard.php:550
+#: elements/hgr_xtnd_icon.php:192 elements/hgr_xtnd_iconbox.php:289
+#: elements/hgr_xtnd_icontext.php:172 elements/hgr_xtnd_zoombox.php:351
+msgid "Enter value in pixels, example: 0 for square, or 5 for rounded corners."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:343 elements/hgr_xtnd_icon.php:256
+#: elements/hgr_xtnd_zoombox.php:357
+msgid "Link"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:346 elements/hgr_xtnd_fcard.php:565
+#: elements/hgr_xtnd_fcard.php:636 elements/hgr_xtnd_icon.php:259
+#: elements/hgr_xtnd_icontext.php:263 elements/hgr_xtnd_logo_carousel.php:149
+#: elements/hgr_xtnd_morphingbutton.php:242 elements/hgr_xtnd_zoombox.php:360
+msgid "No Link"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:347 elements/hgr_xtnd_icon.php:260
+#: elements/hgr_xtnd_iconbox.php:299 elements/hgr_xtnd_zoombox.php:361
+msgid "Add custom link to box"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:350 elements/hgr_xtnd_fcard.php:569
+#: elements/hgr_xtnd_fcard.php:640 elements/hgr_xtnd_iconbox.php:302
+msgid "You can add / remove custom link"
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:355 elements/hgr_xtnd_fcard.php:578
+#: elements/hgr_xtnd_fcard.php:649 elements/hgr_xtnd_icon.php:268
+msgid "Link "
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:358 elements/hgr_xtnd_icon.php:271
+#: elements/hgr_xtnd_iconbox.php:310 elements/hgr_xtnd_zoombox.php:372
+msgid "You can add or remove the existing link from here."
+msgstr ""
+
+#: elements/hgr_xtnd_contentbox.php:371
+msgid ""
+"Add extra class name. You can use this class for your css/js customizations."
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:27
+msgid "HGR CountDown"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:32
+msgid "Countdown to a given date"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:39
+msgid "Day:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:79
+msgid "Month:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:100
+msgid "Year:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:125
+msgid "Hour:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:158
+msgid "Minute:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:227
+msgid "Counter font tag:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:242
+msgid "Counter font color:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:245
+msgid "Pick a color for your counter font."
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:251
+msgid "Label font tag:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:266
+msgid "Label font color:"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:269
+msgid "Pick a color for your label font."
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:275 elements/hgr_xtnd_counter.php:286
+msgid "Extra class name"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:278 elements/hgr_xtnd_counter.php:289
+#: elements/hgr_xtnd_fcard.php:698 elements/hgr_xtnd_gmap.php:159
+#: elements/hgr_xtnd_icon.php:283 elements/hgr_xtnd_iconbox.php:323
+#: elements/hgr_xtnd_icontext.php:318 elements/hgr_xtnd_logo_carousel.php:106
+#: elements/hgr_xtnd_morphingbutton.php:689
+#: elements/hgr_xtnd_progressbar.php:225
+#: elements/hgr_xtnd_rollover_panel.php:514 elements/hgr_xtnd_zoombox.php:385
+msgid "Add extra class name. You can use this class for your customizations."
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:283
+msgid "Css"
+msgstr ""
+
+#: elements/hgr_xtnd_countdown.php:285
+msgid "Design options"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:33
+msgid "HGR Counter"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:38
+msgid "Animated counters"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:45 elements/hgr_xtnd_pie.php:122
+msgid "Icon to display:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:89 elements/hgr_xtnd_icon.php:126
+#: elements/hgr_xtnd_progressbar.php:119
+#: elements/hgr_xtnd_rollover_panel.php:123 elements/hgr_xtnd_zoombox.php:117
+msgid "Provide image width."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:99 elements/hgr_xtnd_icontext.php:68
+#: elements/hgr_xtnd_progressbar.php:70 elements/hgr_xtnd_zoombox.php:68
+msgid "Icon Size:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:115 elements/hgr_xtnd_icontext.php:111
+#: elements/hgr_xtnd_progressbar.php:86 elements/hgr_xtnd_zoombox.php:84
+msgid "Icon Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:118 elements/hgr_xtnd_zoombox.php:87
+msgid "Pick a color for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:128 elements/hgr_xtnd_icontext.php:210
+msgid "Icon position:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:129 elements/hgr_xtnd_icontext.php:219
+msgid "Select icon position."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:142
+msgid "Counter Number:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:143
+msgid "Count from 1 to this number."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:151
+msgid "Counter Number Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:154 elements/hgr_xtnd_counter.php:172
+#: elements/hgr_xtnd_counter.php:190
+msgid "Pick a color."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:160
+msgid "Counter Units:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:163
+msgid "Ex: cups, lines of code, projects."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:169
+msgid "Counter Units Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:178
+msgid "Counter Text:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:181
+msgid "Ex: of coffee (cups), written (lines of code), delivered (projects)."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:187
+msgid "Counter Text Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:196
+msgid "Counter Speed:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:201
+msgid "seconds"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:202
+msgid "Set counter speed. Default is 5 seconds."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:208
+msgid "Background Settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:214
+msgid "Select background type."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:220
+msgid "Background Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:223
+msgid "Pick a background color."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:233
+msgid "Border Settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:239
+msgid "Select border type."
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:245
+msgid "Border Width:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:261
+msgid "Border Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_counter.php:264
+msgid "Pick a border color."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:39
+msgid "HGR Flip Card"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:44
+msgid "Flip Card with advanced settings"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:52 elements/hgr_xtnd_rollover_panel.php:49
+msgid "Icon to display on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:59 elements/hgr_xtnd_icon.php:51
+#: elements/hgr_xtnd_iconbox.php:51 elements/hgr_xtnd_icontext.php:51
+#: elements/hgr_xtnd_rollover_panel.php:56 elements/hgr_xtnd_zoombox.php:50
+msgid "Select icon source."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:64 elements/hgr_xtnd_icontext.php:56
+#: elements/hgr_xtnd_progressbar.php:57 elements/hgr_xtnd_zoombox.php:55
+msgid "Select Icon:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:79
+msgid "Icon position on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:82 elements/hgr_xtnd_icontext.php:213
+msgid "Top"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:83 elements/hgr_xtnd_icontext.php:214
+msgid "Bottom"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:84 elements/hgr_xtnd_fcard.php:193
+msgid "Just icon, no text"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:87
+msgid "Select where you want to display the icon."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:96
+msgid "Size of Icon on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:102
+msgid "Set the icon size on front panel"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:111
+msgid "Color of Icon on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:114
+msgid "Pick your desired icon color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:126
+msgid "Front side icon background settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:130 elements/hgr_xtnd_fcard.php:235
+#: elements/hgr_xtnd_icon.php:139 elements/hgr_xtnd_icontext.php:127
+msgid "Select background color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:133 elements/hgr_xtnd_fcard.php:238
+#: elements/hgr_xtnd_icon.php:142 elements/hgr_xtnd_icontext.php:130
+msgid "Select background settings for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:142
+msgid "Front side icon background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:145 elements/hgr_xtnd_fcard.php:250
+#: elements/hgr_xtnd_icon.php:150 elements/hgr_xtnd_icontext.php:142
+msgid "Pick a background color for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:154
+msgid "Front side icon background size:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:169
+msgid "Front Panel Icon Background Roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:187
+msgid "Icon settings on back side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:191
+msgid "Top position"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:192
+msgid "Bottom position"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:196
+msgid "Display same icon from front side or none on the back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:201
+msgid "Size of Icon on back side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:207
+msgid "Set the icon size for back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:216
+msgid "Color of Icon on back side:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:219 elements/hgr_xtnd_mc_collector.php:83
+#: elements/hgr_xtnd_mc_collector.php:101
+msgid "Use the color picker."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:231
+msgid "Back side icon background settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:247
+msgid "Back side icon background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:259
+msgid "Back Panel Icon Background Size:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:274
+msgid "Back Panel Icon Background Roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:292
+msgid "Front side title"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:295 elements/hgr_xtnd_rollover_panel.php:139
+msgid "Title for the front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:304
+msgid "Front title color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:307
+msgid "Color of title on front side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:316
+msgid "Description on front side"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:319
+msgid "Insert front panel description here."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:328
+msgid "Front side description color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:331
+msgid "Color of description on front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:343
+msgid "Front side background type"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:350
+msgid "Select background color for front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:355
+msgid "Front Panel Background Color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:358 elements/hgr_xtnd_rollover_panel.php:184
+#: elements/hgr_xtnd_zoombox.php:178
+msgid "Pick a background color for front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:370
+msgid "Front side border type"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:374 elements/hgr_xtnd_rollover_panel.php:201
+#: elements/hgr_xtnd_rollover_panel.php:342
+msgid "Custom border settings"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:377
+msgid "Customize border settings for front side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:382
+msgid "Front Border Width"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:397
+msgid "Front Border Color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:400 elements/hgr_xtnd_rollover_panel.php:228
+msgid "Pick a color for front side border."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:409
+msgid "Front Border Roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:427
+msgid "Back side title"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:430
+msgid "Insert back panel title here."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:439
+msgid "Back title color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:442
+msgid "Color of title on back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:451
+msgid "Back side description"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:454
+msgid "Insert back side description here."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:463
+msgid "Back side description color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:466
+msgid "Color of description on back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:478
+msgid "Back side background type"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:485
+msgid "Select background color for back panel."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:490
+msgid "Back side background color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:493
+msgid "Pick a background color for back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:505
+msgid "Back side border type"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:509
+msgid "Custom border setttings"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:512
+msgid "Customize border settings for back side."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:517
+msgid "Back border thickness"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:532
+msgid "Back border bolor"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:535 elements/hgr_xtnd_rollover_panel.php:369
+msgid "Pick a color for back side border."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:544
+msgid "Back side border roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:562
+msgid "Button link on back side"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:566
+msgid "Add custom link with button"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:581
+msgid "You can link or remove the existing link on the button from here."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:591
+msgid "Button Text"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:594 elements/hgr_xtnd_icontext.php:292
+#: elements/hgr_xtnd_morphingbutton.php:273
+msgid "Make sure the text clearly calls for a specific action."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:604
+msgid "Button background color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:607
+msgid "Color of the button. Make sure it'll match with Back Side Box Color."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:617
+msgid "Button Text Color"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:620 elements/hgr_xtnd_icontext.php:305
+#: elements/hgr_xtnd_morphingbutton.php:288
+msgid "Select the color for button text."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:633
+msgid "Back side icon link"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:637 elements/hgr_xtnd_rollover_panel.php:386
+msgid "Add custom link"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:652
+msgid ""
+"You can link or remove the existing link on the back panel icon from here."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:665
+msgid "Set Box Height"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:668 elements/hgr_xtnd_rollover_panel.php:483
+msgid "Auto"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:669 elements/hgr_xtnd_pricing_tables.php:145
+#: elements/hgr_xtnd_pricing_tables.php:170
+#: elements/hgr_xtnd_rollover_panel.php:484
+msgid "Custom"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:672 elements/hgr_xtnd_rollover_panel.php:487
+msgid "Select height option for this box."
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:677
+msgid "Box Height"
+msgstr ""
+
+#: elements/hgr_xtnd_fcard.php:683
+msgid "Provide box height"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:43
+msgid "HGR Google Map"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:48
+msgid "Google Map"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:53
+msgid "Map name:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:56
+msgid "*Insert map name here. Make sure this map name is unique."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:62
+msgid "Latitude:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:65
+msgid "Insert latitude coordinate here."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:71
+msgid "Longitude:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:74
+msgid "Insert longitude coordinate here."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:80
+msgid "Zoom Level:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:85
+msgid "Zoom on location. Min value 0 (whole world), max value 20."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:91
+msgid "Map Style:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:94
+msgid "Google preset colors"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:95
+msgid "Greyscale"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:97
+msgid "Choose map style that suits your design."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:103
+msgid "Marker Settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:106
+msgid "Google default"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:107
+msgid "Plugin default"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:108
+msgid "Upload your own"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:110
+msgid "Marker style settings."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:116
+msgid "Upload Marker Image:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:119
+msgid "Upload marker custom image."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:129
+msgid "Map Width:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:132 elements/hgr_xtnd_gmap.php:142
+msgid "Enter value in pixels. You can set also % values."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:139
+msgid "Map Height:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:147
+msgid "Disable zoom on mouse over scroll:"
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:149
+msgid "If checked this will disable map zooming when scrolling over."
+msgstr ""
+
+#: elements/hgr_xtnd_gmap.php:150 elements/hgr_xtnd_logo_carousel.php:97
+#: elements/hgr_xtnd_mc_collector.php:58 elements/hgr_xtnd_mc_collector.php:66
+#: elements/hgr_xtnd_mc_collector.php:74
+#: elements/hgr_xtnd_morphingbutton.php:591
+#: elements/hgr_xtnd_morphingbutton.php:616
+#: elements/hgr_xtnd_morphingbutton.php:641
+#: elements/hgr_xtnd_progressbar.php:216
+#: elements/hgr_xtnd_rollover_panel.php:471 elements/hgr_xtnd_team.php:76
+msgid "Yes, please"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:32
+msgid "HGR Icon"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:37
+msgid "Icon with advanced parameters"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:56 elements/hgr_xtnd_iconbox.php:56
+#: elements/hgr_xtnd_rollover_panel.php:61
+msgid "Select icon:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:71 elements/hgr_xtnd_icontext.php:114
+msgid "Select prefered icon color."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:80
+msgid "Icon hover color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:83
+msgid "Select prefered icon color on hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:92 elements/hgr_xtnd_iconbox.php:69
+msgid "Icon size:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:107 elements/hgr_xtnd_iconbox.php:85
+#: elements/hgr_xtnd_rollover_panel.php:103 elements/hgr_xtnd_zoombox.php:97
+msgid "Upload image icon:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:120 elements/hgr_xtnd_iconbox.php:99
+#: elements/hgr_xtnd_rollover_panel.php:117 elements/hgr_xtnd_zoombox.php:111
+msgid "Image width:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:135 elements/hgr_xtnd_icontext.php:123
+msgid "Icon Background Settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:147 elements/hgr_xtnd_icontext.php:139
+msgid "Icon Background Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:159
+msgid "Icon Hover Background Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:162
+msgid "Pick a background color for your icon on hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:171 elements/hgr_xtnd_icontext.php:151
+msgid "Icon Background Size:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:186 elements/hgr_xtnd_icontext.php:166
+msgid "Icon Background Roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:201
+msgid "Icon Border Settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:205
+msgid "Set border"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:208
+msgid "Select border settings for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:217 elements/hgr_xtnd_icontext.php:197
+msgid "Icon Border Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:220
+msgid "Pick a border color for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:229
+msgid "Icon Hover Border Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:232
+msgid "Pick a border color for your icon on hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:241
+msgid "Icon Border Size:"
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:263 elements/hgr_xtnd_icontext.php:267
+#: elements/hgr_xtnd_morphingbutton.php:245
+msgid "You can add / remove custom link."
+msgstr ""
+
+#: elements/hgr_xtnd_icon.php:280
+msgid "Icon extra class:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:33
+msgid "HGR IconBox"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:38
+msgid "IconBox - invert colors on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:75
+msgid "Set the icon size"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:115
+msgid "Title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:124
+msgid "Subheading text:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:127
+msgid "This will be visible on hover."
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:133
+msgid "Icon, title and subheading color on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:136
+msgid "Color of icon, title text and subheading text in normal state."
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:142
+msgid "Background type on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:154
+msgid "Background color on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:167
+msgid "Border type on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:179
+msgid "Border thickness on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:195
+msgid "Border color on normal state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:208
+msgid "Icon, title and subheading color on hover state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:211
+msgid "Color of icon, title text and subheading text in hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:229
+msgid "Background color on hover state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:242
+msgid "Border type on hover state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:254
+msgid "Border width on hover state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:270
+msgid "Border color on hover state:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:283
+msgid "Box border roundness:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:295
+msgid "Link type:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:298 elements/hgr_xtnd_rollover_panel.php:385
+msgid "No link"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:307
+msgid "Link settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_iconbox.php:320 elements/hgr_xtnd_icontext.php:315
+#: elements/hgr_xtnd_logo_carousel.php:103
+#: elements/hgr_xtnd_rollover_panel.php:511
+msgid "Extra class:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:33
+msgid "HGR Icon Text"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:38
+msgid "Title and paragraph with icon."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:182
+msgid "Icon Background border width:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:200
+msgid "Pick a border color for your icon background."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:228 elements/hgr_xtnd_morphingbutton.php:183
+#: elements/hgr_xtnd_morphingbutton.php:318
+msgid "Element Title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:236
+msgid "Title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:239 elements/hgr_xtnd_morphingbutton.php:200
+#: elements/hgr_xtnd_morphingbutton.php:335
+msgid "Color of title text."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:244 elements/hgr_xtnd_morphingbutton.php:211
+#: elements/hgr_xtnd_morphingbutton.php:346
+msgid "Element Description text:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:247 elements/hgr_xtnd_morphingbutton.php:214
+#: elements/hgr_xtnd_morphingbutton.php:349
+msgid "Insert description text here."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:252
+msgid "Description color:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:255 elements/hgr_xtnd_morphingbutton.php:228
+#: elements/hgr_xtnd_morphingbutton.php:363
+msgid "Color of description text."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:260 elements/hgr_xtnd_logo_carousel.php:146
+#: elements/hgr_xtnd_morphingbutton.php:239
+msgid "Link text settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:264 elements/hgr_xtnd_morphingbutton.php:243
+msgid "Add custom link text"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:276 elements/hgr_xtnd_logo_carousel.php:158
+#: elements/hgr_xtnd_morphingbutton.php:256
+msgid "Link to:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:279 elements/hgr_xtnd_morphingbutton.php:259
+msgid "Set the address to link to."
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:289 elements/hgr_xtnd_morphingbutton.php:270
+msgid "Link Text:"
+msgstr ""
+
+#: elements/hgr_xtnd_icontext.php:302 elements/hgr_xtnd_morphingbutton.php:285
+msgid "Link Text Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:38
+msgid "HGR LogoCarousel"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:44
+msgid "Carousel block"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:51
+msgid "Numer of logos displayed at a time with the widest browser width:"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:56
+msgid "Logos displayed at a time with the widest browser width."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:62
+msgid "Number of logos displayed for desktop window size (< 1200px):"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:67
+msgid "Logos displayed at a time for desktop window size."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:73
+msgid "Number of logos displayed for desktop small window size (< 980px):"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:78
+#: elements/hgr_xtnd_logo_carousel.php:89
+msgid "Logos displayed at a time for desktop small window size."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:84
+msgid "Number of logos displayed for tablet window size (< 769px):"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:94
+msgid "Auto play scrooling:"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:96
+msgid "If checked this will set the carousel to scroll every 5 seconds."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:123
+msgid "Carousel item"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:136
+msgid "Logo image:"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:140
+msgid "Upload carousel item logo image."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:150
+msgid "Add link"
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:153
+msgid "You can add / remove custom link for logo image."
+msgstr ""
+
+#: elements/hgr_xtnd_logo_carousel.php:161
+msgid "Set a link to this logo image."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:27
+msgid "HGR MailChimp Collector"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:33
+msgid "Collect email addresses to your MailChimp list."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:39
+#: elements/hgr_xtnd_morphingbutton.php:520
+msgid "MailChimp API Key"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:42
+#: elements/hgr_xtnd_morphingbutton.php:523
+msgid ""
+"Your MailChimp API Key. Grab an API Key from <a href=\"http://admin."
+"mailchimp.com/account/api/\" target=\"_blank\">http://admin.mailchimp.com/"
+"account/api/</a>."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:48
+#: elements/hgr_xtnd_morphingbutton.php:533
+msgid "MailChimp List ID"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:55
+msgid "Enable anti-spam disclaimer"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:57
+msgid ""
+"If checked, 'We'll never spam or give this address away' will be displayed."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:63
+msgid "Collect name too"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:65
+msgid "If checked, 'Name' will be required too."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:71
+msgid "Collect last name too"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:73
+msgid "If checked, 'Lastname' will be required too."
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:80
+msgid "Background color of inputs"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:89
+msgid "Text color of inputs"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:92
+msgid "Color of the text inside the inputs"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:98
+msgid "Background color of button"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:107
+msgid "Text color of button"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:110
+msgid "Color of the text inside the button"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:116
+msgid "NO-SPAM & response text color"
+msgstr ""
+
+#: elements/hgr_xtnd_mc_collector.php:119
+msgid "Color of the NO-SPAM text"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:34
+msgid "HGR MinimalForm"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:40
+msgid "Minimal Form with advanced settings"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:47
+msgid "Form size settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:54
+msgid "Choose from our 3 preset values."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:60
+msgid "Form style settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:66
+msgid "Choose customization settings."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:72
+msgid "Label text size:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:78
+msgid "Set label text size in pixels."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:88
+msgid "Label text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:91
+msgid "Set label text color."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:101
+msgid "Input text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:104
+msgid "Set input text color."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:114
+msgid "Next icon color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:117
+msgid "Set next icon color."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:127
+msgid "Confirmation text:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:130
+msgid "Thank you message after the form is submitted."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:136
+msgid "Confirmation text size:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:142
+msgid "Set confirmation text size in pixels."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:152
+msgid "Confirmation text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:155
+msgid "Set confirmation text color."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:165
+msgid "Steps text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:168
+msgid "Set steps text color."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:178
+msgid "Form input background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:181
+msgid "Set color for input background."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:191
+msgid "Progress bar background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:194
+msgid "Set the background color for progress bar."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:211
+msgid "Input field"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:222
+msgid "Label text:"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:226
+msgid "Set a label text (eg. First name, Address, Telephone)."
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:232
+msgid "Input type"
+msgstr ""
+
+#: elements/hgr_xtnd_minimal_form.php:239
+msgid "Select input type. This will verify submitted data."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:37
+msgid "HGR Morphing Button"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:42
+msgid "Morphing button"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:50
+msgid "Select button type"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:53
+msgid "Info"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:54
+msgid "Info overlay"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:55
+msgid "Subscribe"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:56
+msgid "Share"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:66
+msgid "Test Text"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:72
+msgid "Button text size (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:112
+msgid "Button width (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:121
+msgid "Button height (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:156
+msgid "Insert only numeric values. Not available for some button types!"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:169
+msgid "Element background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:172
+#: elements/hgr_xtnd_morphingbutton.php:307
+#: elements/hgr_xtnd_morphingbutton.php:381
+#: elements/hgr_xtnd_morphingbutton.php:553
+msgid "Background color of morphing element."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:197
+#: elements/hgr_xtnd_morphingbutton.php:332
+msgid "Element Title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:225
+#: elements/hgr_xtnd_morphingbutton.php:360
+msgid "Element Description color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:304
+msgid "Overlay background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:378
+msgid "Subscribe background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:392
+msgid "Subscribe label text:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:395
+msgid "Insert label text here"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:406
+msgid "Subscribe Label color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:409
+msgid "Color of label text."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:420
+msgid "Anti-SPAM text:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:423
+msgid "Insert anti-spam text here"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:434
+msgid "Anti-SPAM text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:437
+msgid "Color of anti-SPAM text."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:448
+msgid "Text on the Subscribe button"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:460
+msgid "Subscribe Button text size (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:472
+msgid "Subscribe Button text color"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:484
+msgid "Subscribe Button text color on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:496
+msgid "Subscribe Button color"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:508
+msgid "Subscribe Button color on hover"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:550
+msgid "Share background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:563
+msgid "Share links color:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:566
+msgid "Color of the sharing links."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:576
+msgid "Share links color on hover:"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:579
+msgid "Color of the sharing links for hover state."
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:588
+msgid "Share to Facebook?"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:590
+msgid "Check this to include Facebook sharing"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:601
+msgid "Facebook App ID"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:602
+msgid ""
+"Insert your facebook App ID. Get it from <a href=\"https://developers."
+"facebook.com/\" target=\"_blank\">Facebook Developers</a>"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:613
+msgid "Share to Twitter?"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:615
+msgid "Check this to include Twitter sharing"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:626
+msgid "Share via @username"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:627
+msgid "Insert your Twitter username"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:638
+msgid "Share to Google Plus?"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:640
+msgid "Check this to include Google Plus sharing"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:656
+msgid "What video do you want to display?"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:672
+msgid "Video URL"
+msgstr ""
+
+#: elements/hgr_xtnd_morphingbutton.php:673
+msgid "Insert video URL"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:27
+msgid "HGR Pie Chart"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:33
+msgid "Animated pie chart"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:40
+msgid "Pie title"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:48
+msgid "Pie text"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:56
+msgid "Pie link to"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:59
+msgid "Link pie text to URL."
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:65
+msgid "Pie size"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:73
+msgid "Bar width"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:81
+msgid "Pie percent"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:89
+msgid "Pie percent font size"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:98
+msgid "Back line color:"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:106
+msgid "Front line color:"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:114
+msgid "Scale color:"
+msgstr ""
+
+#: elements/hgr_xtnd_pie.php:133
+msgid "Select Icon"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:38
+msgid "Pricing Tables"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:44
+msgid "Pricing Tables block"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:51
+msgid "Pricing table header text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:62
+msgid "Pricing table body text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:92
+msgid "Pricing Table"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:103
+msgid "Package name"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:111
+msgid "Recommended package"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:114
+msgid "No"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:115
+msgid "Yes"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:122
+msgid "Package short text"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:130
+msgid "Package price"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:138
+msgid "Cost is per:"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:141
+msgid "Day"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:142
+msgid "Week"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:143
+msgid "Month"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:144
+msgid "Year"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:152
+msgid "Custom cost per:"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:155
+msgid "Set cost per item, package etc."
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:165
+msgid "Currency:"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:168
+msgid "Dollar"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:169
+msgid "Euro"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:177
+msgid "Custom currency"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:189
+msgid "Price color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:192
+msgid "If empty, white will be used"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:198
+msgid "Header background color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:201
+#: elements/hgr_xtnd_pricing_tables.php:210
+msgid "If empty, a default color will be used"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:207
+msgid "Header background second color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:216
+msgid "Second background color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:219
+msgid "This is background color for price area. If empty, white will be used"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:225
+msgid "Package content background color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:228
+msgid ""
+"This is background color for package content area. If empty, white will be "
+"used"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:234
+msgid "Table body content"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:237
+msgid "Add a unordered list (ul) with package elements"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:243
+msgid "Buy button text"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:246
+msgid "Buy Now! or Start Now! or whatever you want... "
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:260
+msgid "Buy button position"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:263
+msgid "In header"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:264
+msgid "In footer"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:271
+msgid "Buy button color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:274
+msgid "If empty, a transparent backgroung button will be rendered."
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:280
+msgid "Buy button border color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:283
+msgid "If empty, no border will be rendered"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:289
+msgid "Button border thickness"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:295
+msgid "Thickness of the border (1-10)."
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:307
+msgid "Button corners roundness (1-6)."
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:317
+msgid "Button size"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:320
+msgid "Default"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:321
+msgid "Large"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:322
+msgid "Small"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:323
+msgid "Extra small"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:330
+msgid "Table side margins (left & right)"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:332
+msgid "Add a margin to left and right of the table, in pixles"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:339
+msgid "Table border thickness"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:341
+msgid "Add a border the table, in pixles"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:348
+msgid "Table border color"
+msgstr ""
+
+#: elements/hgr_xtnd_pricing_tables.php:360
+msgid "Table extra class"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:33
+msgid "HGR Progress Bar"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:38
+msgid "Progress bar with advanced parameters"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:45
+msgid "Icon Type:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:76
+msgid "Select icon size."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:89
+msgid "Select prefered color for your icon."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:113
+msgid "Image Icon Width:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:129
+msgid "Progress Bar Title:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:132
+msgid "Title for progress bar."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:138
+msgid "Progress Bar Title Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:141
+msgid "Select color for progress bar title."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:147
+msgid "Progress Bar Base Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:150
+msgid "Bar background color."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:156
+msgid "Progress Bar Fill Color:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:159
+msgid "Bar fill color."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:165
+msgid "Progress Bar Value:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:171
+msgid "Progress bar filling value %."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:177
+msgid "Progress Bar Filling Time:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:183
+msgid "Filling duration measured in seconds."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:189
+msgid "Progress Bar Weight:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:195
+msgid "The bar weight in pixels."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:201
+msgid "Progress Bar Style:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:205
+msgid "With Stripes"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:206
+msgid "With Animated Stripes"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:209
+msgid "Select progress bar style from the dropdown."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:213
+msgid "Hide progress bar value marker:"
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:215
+msgid "If checked this will hide value marker."
+msgstr ""
+
+#: elements/hgr_xtnd_progressbar.php:222
+msgid "Extra Class:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:36
+msgid "HGR Rollover Panel"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:41
+msgid "Rollover Panel with advanced settings"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:74
+msgid "Size of icon on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:80
+msgid "Set the icon size on front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:90
+msgid "Color of icon on front side:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:93
+msgid "Pick your desired icon color."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:136
+msgid "Front side title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:145
+msgid "Front side title size:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:157
+msgid "Front side title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:160
+msgid "Pick a color for the front side title."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:169
+msgid "Front side background type:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:176
+#: elements/hgr_xtnd_rollover_panel.php:317
+msgid "Choose between transparent or color background."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:181
+msgid "Front side background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:197
+msgid "Front side border type:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:204
+msgid "Add border to front side panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:209
+msgid "Front border width:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:225
+msgid "Front border color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:244
+msgid "Back side title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:247
+msgid "Title for the back panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:253
+msgid "Back side title size:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:265
+msgid "Back side title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:268
+msgid "Pick a color for the back side title."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:277
+msgid "Back side description text:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:280
+msgid "Description for the back panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:286
+msgid "Back side description text size:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:298
+msgid "Back side description text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:301
+msgid "Pick a color for the back side description."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:310
+msgid "Back side background type:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:322
+msgid "Back side background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:325
+msgid "Pick a background color for back panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:338
+msgid "Back side border type:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:345
+msgid "Add border to back side panel."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:350
+msgid "Back border width:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:366
+msgid "Back border color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:382
+msgid "Back side link settings:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:389 elements/hgr_xtnd_zoombox.php:364
+msgid "You can add/remove custom link."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:395
+msgid "Back side link text:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:398
+msgid "Choose a text for your link."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:409
+msgid "Link to URL:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:412
+msgid "Select URL to link."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:423
+msgid "Link text size:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:440
+msgid "Link text color:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:443
+msgid "Pick a color for the link text."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:457
+msgid "Box rounded corners:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:463
+msgid ""
+"Enter value in pixels, example: 0 for square, or 5 for rounded corners. "
+"Roundness will be applied to both sides."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:468
+msgid "Enable panel reflection:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:470
+msgid "Check box to apply reflection. Reflection works best on square boxes."
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:480
+msgid "Set box height:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:492
+msgid "Box height:"
+msgstr ""
+
+#: elements/hgr_xtnd_rollover_panel.php:498
+msgid "Provide box height."
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:31
+msgid "Team"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:37
+msgid "Team block"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:44
+msgid "Team nav bar color:"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:55
+msgid "Team dominant color:"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:66
+msgid "Social icons size size (pixels)"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:73
+msgid "Contained team"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:75
+msgid ""
+"If checked, team members will be contained, else, will be full page width. "
+"This does not apply to nav bar holding members names."
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:103
+msgid "Team Member"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:114
+msgid "Member name"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:117
+msgid "Provide a team member name."
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:123
+msgid "Member position"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:126
+msgid "Member position in company"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:132
+msgid "Member image:"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:136
+msgid "Upload member photo."
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:142
+msgid "Image style"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:149
+msgid "For Circle or Rounded image we reccomend a square image of 265 pixels."
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:155
+msgid "Member intro text"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:158
+msgid "Description about this member"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:164
+msgid "Member skills"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:167
+msgid "photoshop,80|wordpress,95|php,99"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:173
+msgid "Dribbble"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:180
+msgid "Twitter"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:187
+msgid "Facebook"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:195
+msgid "Skype"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:203
+msgid "LinkedIN"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:211
+msgid "Vimeo"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:219
+msgid "Yahoo"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:227
+msgid "Youtube"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:235
+msgid "Picasa"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:243
+msgid "DeviantArt"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:251
+msgid "Pinterest"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:259
+msgid "SoundCloud"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:267
+msgid "Behance"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:275
+msgid "Instagram"
+msgstr ""
+
+#: elements/hgr_xtnd_team.php:283
+msgid "Google Plus"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:26
+msgid "HGR Twitter Feed"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:32
+msgid "Your latest tweets"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:43
+msgid "Your Twitter UserName"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:46
+msgid "Your twitter username"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:51
+msgid "Username color"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:58
+msgid "Text color"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:65
+msgid "Twitter API Key"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:68
+msgid ""
+"Get your API key and Tokens here: <a href=\"https://dev.twitter.com/apps\" "
+"target=\"_blank\">Twitter Applications Page</a>"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:73
+msgid "Twitter API Secret"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:76
+msgid "Keep the \"API secret\" a secret."
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:81
+msgid "Access token"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:84
+msgid ""
+"This access token can be used to make API requests on your own account's "
+"behalf. Do not share your access token secret with anyone. "
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:89
+msgid "Access token secret"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:96
+msgid "Feed refresh time"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:104
+msgid "How often should try to get the latest tweets from Twitter?"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:109
+msgid "Connection time out"
+msgstr ""
+
+#: elements/hgr_xtnd_twitterfeed.php:117
+msgid "When connecting to Twitter, how long should wait before timing out?"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:32
+msgid "HGR ZoomBox"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:37
+msgid "ZoomBox - two sided box"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:127
+msgid "Front Title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:130
+msgid "Title for the front view."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:136
+msgid "Front Title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:139
+msgid "Color of front title text."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:145
+msgid "Front Description text:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:148
+msgid "Insert front description here."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:154
+msgid "Front Description color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:157
+msgid "Color of front description text."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:163
+msgid "Front Background type:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:166 elements/hgr_xtnd_zoombox.php:207
+#: elements/hgr_xtnd_zoombox.php:309
+msgid "Custom settings"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:170
+msgid "Select background type for front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:175
+msgid "Front Background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:188
+msgid "Front Background opacity:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:193
+msgid "Front panel background opacity. Min value 0.1, max value 1."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:203
+msgid "Front Border type:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:210
+msgid "Select border type for front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:215
+msgid "Front Border width:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:231
+msgid "Front Border color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:234
+msgid "Pick a border color for front panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:244
+msgid "Zoom Panel Title text:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:247
+msgid "Insert zoom panel title text here."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:253
+msgid "Zoom Panel Title color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:256
+msgid "Color of zoom panel title text."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:262
+msgid "Zoom Panel Description text:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:265
+msgid "Insert zoom panel description here."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:271
+msgid "Zoom Panel Description color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:274
+msgid "Color of zoom panel description text."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:280
+msgid "Zoom Panel Background type:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:287
+msgid "Select background type for zoom panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:292
+msgid "Zoom Panel Background color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:295
+msgid "Pick a background color for zoom panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:305
+msgid "Zoom Panel Border type:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:312
+msgid "Select border type for zoom panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:317
+msgid "Zoom Panel Border width:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:333
+msgid "Zoom Panel Border color:"
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:336
+msgid "Pick a border color for zoom panel."
+msgstr ""
+
+#: elements/hgr_xtnd_zoombox.php:369
+msgid "Box Link:"
+msgstr ""
+
+#: hgr_xtnd.php:351
+msgid "year"
+msgstr ""
+
+#: hgr_xtnd.php:352
+msgid "month"
+msgstr ""
+
+#: hgr_xtnd.php:353
+msgid "week"
+msgstr ""
+
+#: hgr_xtnd.php:354
+msgid "day"
+msgstr ""
+
+#: hgr_xtnd.php:355
+msgid "hour"
+msgstr ""
+
+#: hgr_xtnd.php:356
+msgid "minute"
+msgstr ""
+
+#: hgr_xtnd.php:357
+msgid "second"
+msgstr ""
+
+#: hgr_xtnd.php:371
+msgid " ago "
+msgstr ""
+
+#: hgr_xtnd.php:371
+msgid " just now "
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:69
+msgid "No Comments"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:71
+msgid " Comments"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:73
+msgid "1 Comment"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:101
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:126
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:147
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:172
+msgid "Written by "
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:102
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:127
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:148
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:173
+msgid "Filled under "
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:104
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:150
+msgid "Read more on "
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:133
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:179
+msgid "by"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_blog_posts_shrt.php:189
+msgid "No posts to display. Please add some blog posts!"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:82
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:95
+msgid "Your name"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:83
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:96
+msgid "Your last name"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:84
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:97
+msgid "Email Address"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:85
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:98
+msgid "Join"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:86
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:99
+msgid "We'll never spam or give this address away"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:137
+msgid "Success! Check your email to confirm sign up."
+msgstr ""
+
+#: shortcodes/hgr_xtnd_mc_collector_shrt.php:142
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_twitterfeed_shrt.php:71
+msgid ""
+"<p>No API Key! Go to the <a href=\"https://dev.twitter.com/apps\" target="
+"\"_blank\">My applications page</a> on the Twitter website to set up your "
+"website as a new Twitter \"application\". You may need to log-in using your "
+"Twitter user name and password.</p>"
+msgstr ""
+
+#: shortcodes/hgr_xtnd_twitterfeed_shrt.php:145
+msgid "No available tweets for the moment! Please tweet something first."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Highgrade Extender for Visual Composer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://highgradelab.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom made extender for Visual Composer"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HighGrade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://highgradelab.com"
+msgstr ""

@@ -1,0 +1,255 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Highgrade Essentials\n"
+"POT-Creation-Date: 2016-03-28 14:57+0300\n"
+"PO-Revision-Date: 2016-03-28 14:57+0300\n"
+"Last-Translator: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"Language-Team: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hgr_essentials.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hgr_essentials.php:123
+msgid "Highgrade Essentials its only available with <b>"
+msgstr ""
+
+#: hgr_essentials.php:125
+msgid "Highgrade Essentials its activated now! Thank you for using <b>"
+msgstr ""
+
+#: hgr_essentials.php:150
+msgid "HGR Essentials"
+msgstr ""
+
+#: hgr_essentials.php:154
+msgid ""
+"HGR Essentials is a collection of plugins specially created for our theme. "
+"They are required in order for this theme to work."
+msgstr ""
+
+#: hgr_essentials.php:158 hgr_essentials.php:414
+msgid "HGR Testimonials"
+msgstr ""
+
+#: hgr_essentials.php:161
+msgid ""
+"This plugin adds a custom post type, so you can add and display testimonials "
+"from your customers."
+msgstr ""
+
+#: hgr_essentials.php:165
+msgid "HGR Portfolio"
+msgstr ""
+
+#: hgr_essentials.php:168
+msgid ""
+"Do you want a quick and clean way to display some portfolio items? You got "
+"it with HGR Portfolio."
+msgstr ""
+
+#: hgr_essentials.php:172
+msgid "HGR FullScreen Search"
+msgstr ""
+
+#: hgr_essentials.php:175
+msgid "This one adds a full-screen in-site search feature for your visitors"
+msgstr ""
+
+#: hgr_essentials.php:179
+msgid "HGR Super Search"
+msgstr ""
+
+#: hgr_essentials.php:182
+msgid ""
+"HGR Super Search adds a neat search feature for in-site search. Try it, you "
+"and your visitors will love it."
+msgstr ""
+
+#: hgr_essentials.php:202 hgr_essentials.php:204
+msgid "Testimonials"
+msgstr ""
+
+#: hgr_essentials.php:203 hgr_essentials.php:205
+msgid "Testimonial"
+msgstr ""
+
+#: hgr_essentials.php:206 hgr_essentials.php:232
+msgid "Add New"
+msgstr ""
+
+#: hgr_essentials.php:207
+msgid "Add New Testimonial"
+msgstr ""
+
+#: hgr_essentials.php:208
+msgid "New Testimonial"
+msgstr ""
+
+#: hgr_essentials.php:209
+msgid "Edit Testimonial"
+msgstr ""
+
+#: hgr_essentials.php:210
+msgid "View Testimonial"
+msgstr ""
+
+#: hgr_essentials.php:211
+msgid "All Testimonials"
+msgstr ""
+
+#: hgr_essentials.php:212
+msgid "Search Testimonials"
+msgstr ""
+
+#: hgr_essentials.php:213
+msgid "No testimonial found."
+msgstr ""
+
+#: hgr_essentials.php:214
+msgid "No testimonial found in Trash."
+msgstr ""
+
+#: hgr_essentials.php:228 hgr_essentials.php:229 hgr_essentials.php:230
+#: hgr_essentials.php:231
+msgid "Portfolio"
+msgstr ""
+
+#: hgr_essentials.php:233
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: hgr_essentials.php:234
+msgid "New Portfolio Item"
+msgstr ""
+
+#: hgr_essentials.php:235
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: hgr_essentials.php:236
+msgid "View Portfolio Item"
+msgstr ""
+
+#: hgr_essentials.php:237
+msgid "All Portfolio"
+msgstr ""
+
+#: hgr_essentials.php:238
+msgid "Search Portfolio"
+msgstr ""
+
+#: hgr_essentials.php:239
+msgid "No portfolio item found."
+msgstr ""
+
+#: hgr_essentials.php:240
+msgid "No portfolio item found in Trash."
+msgstr ""
+
+#: hgr_essentials.php:273
+msgid "Categories"
+msgstr ""
+
+#: hgr_essentials.php:395
+msgid "No testimonials to display. Please add some testimonials!"
+msgstr ""
+
+#: hgr_essentials.php:419
+msgid "HighGrade Extender"
+msgstr ""
+
+#: hgr_essentials.php:420
+msgid "Testimonials displayed as carousel with a modal view-all option."
+msgstr ""
+
+#: hgr_essentials.php:426
+msgid "How many testimonials to display in carousel?"
+msgstr ""
+
+#: hgr_essentials.php:429
+msgid ""
+"Enter the desired number of testimonials to display in carousel. Recomended: "
+"6"
+msgstr ""
+
+#: hgr_essentials.php:435
+msgid "Carousel background color"
+msgstr ""
+
+#: hgr_essentials.php:443
+msgid "Carousel bottom bar color"
+msgstr ""
+
+#: hgr_essentials.php:451
+msgid "Testimonial text color"
+msgstr ""
+
+#: hgr_essentials.php:459
+msgid "Testimonial name color"
+msgstr ""
+
+#: hgr_essentials.php:467
+msgid "Testimonial company & position color"
+msgstr ""
+
+#: hgr_essentials.php:475
+msgid "Testimonial background color on view all page"
+msgstr ""
+
+#: hgr_essentials.php:483
+msgid "Extra class"
+msgstr ""
+
+#: hgr_essentials.php:486
+msgid "Extra CSS class for custom CSS"
+msgstr ""
+
+#: hgr_essentials.php:503
+msgid "Testimonial details"
+msgstr ""
+
+#: hgr_essentials.php:520
+msgid "Testimonial author"
+msgstr ""
+
+#: hgr_essentials.php:526
+msgid "Company and Position"
+msgstr ""
+
+#: hgr_essentials.php:779
+msgid "Go to shop"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Highgrade Essentials"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://highgradelab.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Essential features and goodies for HighGrade Themes. Activating HGR "
+"Essentials will register two new post types (Portfolio & Testimonials) and "
+"will enable Full-Screen Search feature."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HighGrade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://highgradelab.com"
+msgstr ""

@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: HGR MegaHeader\n"
+"POT-Creation-Date: 2016-03-28 15:09+0300\n"
+"PO-Revision-Date: 2016-03-28 15:09+0300\n"
+"Last-Translator: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"Language-Team: Eugen Petcu <contact@eugenpetcu.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hgr_megaheader.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hgr_megaheader.php:75 hgr_megaheader.php:77
+msgid "Mega Menus"
+msgstr ""
+
+#: hgr_megaheader.php:76 hgr_megaheader.php:78
+msgid "Mega Menu"
+msgstr ""
+
+#: hgr_megaheader.php:79
+msgid "Add New"
+msgstr ""
+
+#: hgr_megaheader.php:80
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: hgr_megaheader.php:81
+msgid "New Mega Menu"
+msgstr ""
+
+#: hgr_megaheader.php:82
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: hgr_megaheader.php:83
+msgid "View Mega Menu"
+msgstr ""
+
+#: hgr_megaheader.php:84
+msgid "All Mega Menus"
+msgstr ""
+
+#: hgr_megaheader.php:85
+msgid "Search Mega Menus"
+msgstr ""
+
+#: hgr_megaheader.php:86
+msgid "No Mega Menus found."
+msgstr ""
+
+#: hgr_megaheader.php:87
+msgid "No Mega Menus found in Trash."
+msgstr ""
+
+#: hgr_megaheader.php:132
+msgid "Display Mega Menu?"
+msgstr ""
+
+#: hgr_megaheader.php:145
+msgid "No MegaMenu"
+msgstr ""
+
+#: hgr_megaheader.php:158
+msgid "No MegaMenu Available"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "HGR MegaHeader"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://highgradelab.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Visual Composer based MegaHeader for HighGrade Themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HighGrade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://highgradelab.com"
+msgstr ""

@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Upshot Child
+ Theme URI:    http://highgradelab.com
+ Description:  Upshot Child Theme
+ Author:       HighGrade
+ Author URI:   http://highgradelab.com
+ Template:     upshot
+ Version:      1.0.0
+ License:      Commercial
+ License URI:  http://themeforest.net
+ Tags:         one-column, two-columns, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, post-formats, theme-options, translation-ready
+ Text Domain:  upshot-child
+*/
+
+
+/* Add your custom css below */
+
+.hebrew{
+	direction:rtl;
+}
+
+.hgr_identity {
+    display: block;
+    float: right;
+}
+
+.main_navbar_container {
+    display: block;
+    float: left;
+	direction:rtl;
+}
+
+#hgr_top_navbar_extras {
+    display: block;
+    float: left;
+}
